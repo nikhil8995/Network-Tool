@@ -63,6 +63,7 @@ The app uses OS commands and may behave differently on Windows, macOS, and Linux
 Some features require network or admin permissions (e.g., netstat).
 
 🙌 Acknowledgements
+
 Streamlit
 
 Plotly
