@@ -51,6 +51,7 @@ Netstat: Shows all current connections via netstat.
 Speed Test: Uses speedtest-cli to show upload/download/ping.
 
 🖼 UI/UX Highlights
+
 Built-in page navigation using st.session_state.
 
 Interactive forms and buttons per feature.
